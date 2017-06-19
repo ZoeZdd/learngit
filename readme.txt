@@ -18,4 +18,6 @@ Git has a mutable index called stage.\
 \pard\pardeftab720\sl360\partightenfactor0
 
 \f1\i\b \cf0 a new branch 'dev'\
+\
+new\'85\
 }
