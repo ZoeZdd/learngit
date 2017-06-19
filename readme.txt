@@ -6,6 +6,6 @@
 \pard\pardeftab720\sl360\partightenfactor0
 
 \f0\fs32 \cf0 \expnd0\expndtw0\kerning0
-Git is a version control system.\
+Git is a distributed version control system.\
 Git is free software.\
 }
