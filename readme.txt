@@ -14,5 +14,5 @@ Git has a mutable index called stage.\
 \f1\i\b \cf0 Git tracks changes of files.\
 \pard\pardeftab720\sl360\sa240\partightenfactor0
 
-\f0\i0\b0 \cf0 Creating a new branch is quick.\
+\f0\i0\b0 \cf0 Creating a new branch is quick AND simple.\
 }
